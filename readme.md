@@ -16,7 +16,9 @@ LICENCE : [MIT](./license.md)
 7. [git fetch](./fetch.md)
 8. [git merge](./merge.md)
 9. [git pull](./pull.md)
-10. [git push](./push.md) 
+10. [git push](./push.md)
+11. [git status](./status.md) 
+12. [git log](./log.md)
 
 
 
